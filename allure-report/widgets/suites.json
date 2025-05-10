@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "d882a579083a8f177168e6e71b24dfa7",
+    "name" : "End-To-End Suite",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 27,
+      "unknown" : 0,
+      "total" : 27
+    }
+  } ]
+}

@@ -1,0 +1,116 @@
+{
+  "uid" : "f3481978bcb3db03",
+  "name" : "GetCartByID",
+  "fullName" : "com.dummyjson.users.Scenarios.ValidScenario.GetCartByID",
+  "historyId" : "334fc4cba1c9a4a59a1a35cfabf1a481",
+  "time" : {
+    "start" : 1746704474791,
+    "stop" : 1746704475356,
+    "duration" : 565
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "LoginToGetToken",
+    "time" : {
+      "start" : 1746704459783,
+      "stop" : 1746704467595,
+      "duration" : 7812
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.dummyjson.users.Scenarios.ValidScenario"
+  }, {
+    "name" : "testClass",
+    "value" : "com.dummyjson.users.Scenarios.ValidScenario"
+  }, {
+    "name" : "testMethod",
+    "value" : "GetCartByID"
+  }, {
+    "name" : "parentSuite",
+    "value" : "End-To-End Suite"
+  }, {
+    "name" : "suite",
+    "value" : "End-To-End Scenarios"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.dummyjson.users.Scenarios.ValidScenario"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DL666VA"
+  }, {
+    "name" : "thread",
+    "value" : "27416@DESKTOP-DL666VA.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "da5e4fd21815fe01",
+        "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/6/allure/#testresult/da5e4fd21815fe01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1746546505844,
+          "stop" : 1746546506368,
+          "duration" : 524
+        }
+      }, {
+        "uid" : "798abc8779ff662a",
+        "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/5/allure/#testresult/798abc8779ff662a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1746545238219,
+          "stop" : 1746545238733,
+          "duration" : 514
+        }
+      }, {
+        "uid" : "cd0e57d2f55d4869",
+        "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/4/allure/#testresult/cd0e57d2f55d4869",
+        "status" : "passed",
+        "time" : {
+          "start" : 1746544942640,
+          "stop" : 1746544943124,
+          "duration" : 484
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f3481978bcb3db03.json",
+  "parameterValues" : [ ]
+}

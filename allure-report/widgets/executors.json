@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:9090/",
+  "buildOrder" : 7,
+  "buildName" : "Run RestAssured #7",
+  "buildUrl" : "http://localhost:9090/job/Run%20RestAssured/7/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/7/allure"
+} ]

@@ -1,0 +1,100 @@
+{
+  "uid" : "3fa0557bd9b1c651",
+  "name" : "UpdateProductByInvalidID",
+  "fullName" : "com.dummyjson.users.Scenarios.InvalidScenario.UpdateProductByInvalidID",
+  "historyId" : "a414e507347205e808bed976e1517f80",
+  "time" : {
+    "start" : 1746704487452,
+    "stop" : 1746704488151,
+    "duration" : 699
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.dummyjson.users.Scenarios.InvalidScenario"
+  }, {
+    "name" : "testClass",
+    "value" : "com.dummyjson.users.Scenarios.InvalidScenario"
+  }, {
+    "name" : "testMethod",
+    "value" : "UpdateProductByInvalidID"
+  }, {
+    "name" : "parentSuite",
+    "value" : "End-To-End Suite"
+  }, {
+    "name" : "suite",
+    "value" : "End-To-End Scenarios"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.dummyjson.users.Scenarios.InvalidScenario"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DL666VA"
+  }, {
+    "name" : "thread",
+    "value" : "27416@DESKTOP-DL666VA.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "89030f4fcd881e05",
+        "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/6/allure/#testresult/89030f4fcd881e05",
+        "status" : "passed",
+        "time" : {
+          "start" : 1746546515461,
+          "stop" : 1746546515954,
+          "duration" : 493
+        }
+      }, {
+        "uid" : "443cca1c2c74c770",
+        "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/5/allure/#testresult/443cca1c2c74c770",
+        "status" : "passed",
+        "time" : {
+          "start" : 1746545247887,
+          "stop" : 1746545248359,
+          "duration" : 472
+        }
+      }, {
+        "uid" : "9d10f6c0e36119de",
+        "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/4/allure/#testresult/9d10f6c0e36119de",
+        "status" : "passed",
+        "time" : {
+          "start" : 1746544951856,
+          "stop" : 1746544952335,
+          "duration" : 479
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "3fa0557bd9b1c651.json",
+  "parameterValues" : [ ]
+}

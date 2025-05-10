@@ -1,0 +1,29 @@
+[ {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 20314
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 14576
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 14708
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:9090/job/Run%20RestAssured/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 13881
+  }
+} ]
